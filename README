@@ -1,0 +1,12 @@
+nw-nwlogger
+================
+
+A little utility app to simplify logging in python. It supports log to a file or
+a number of files (backups)
+
+Patches welcome: http://github.com/un33k/nw-nwlogger
+
+Usage
+=====
+See the source for now as it has a detailed unit test.
+
